@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        //neka dummy promena
 //        Person person = new Person("Sanja","Stanković",25,180,60);
 //        Person person = new Person();
 //        person.name = "Sanja";
