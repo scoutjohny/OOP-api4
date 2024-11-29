@@ -4,12 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
 //        Person person = new Person("Sanja","Stanković",25,180,60);
-////        Person person = new Person();
-////        person.name = "Sanja";
+//        Person person = new Person();
+//        person.name = "Sanja";
 //        person.setSurname("Stanković");
-////        person.age = 25;
-////        person.height = 180;
-////        person.weight = 60;
+//        person.age = 25;
+//        person.height = 180;
+//        person.weight = 60;
 //
 //        System.out.println(person.ime());
 //        person.setName("Branka");
@@ -21,9 +21,9 @@ public class Main {
 //        System.out.println(person.name+" "+person.getSurname());
 //        Person person1 = new Person("Nikola", "Đorđević", 43,179,74);
 //
-////        Person person1 = new Person();
-////        person1.name = "Nikola";
-////        person1.surname = "Đorđević";
+//        Person person1 = new Person();
+//        person1.name = "Nikola";
+//        person1.surname = "Đorđević";
 //        person.name = person1.name;
 //        Person person2 = new Person();
 //
